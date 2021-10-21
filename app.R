@@ -91,6 +91,11 @@ ui <- bootstrapPage(
         textInput("address", "Adresse suchen", placeholder = "in Deutschland"),
         checkboxInput("use_location", "Oder nutze deinen aktuellen Standort!"),
         actionButton("go", "Suchen!", class = "btn-primary")
+    ),
+        
+    absolutePanel(
+        top = "96.5%", left = 5, draggable = FALSE, width = "20%", height = "3%", style = "z-index:500; min-width: 20px;",
+        a(href="https://github.com/STBrinkmann/Covid19_Dashboard_Germany", "Mehr Infos..", target="_blank")
     )
 )
 
