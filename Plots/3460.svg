@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='720.00pt' height='288.00pt' viewBox='0 0 720.00 288.00'>
+<defs>
+  <style type='text/css'><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
+<defs>
+  <clipPath id='cpMC4wMHw3MjAuMDB8MC4wMHwyODguMDA='>
+    <rect x='0.00' y='0.00' width='720.00' height='288.00' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHw3MjAuMDB8MC4wMHwyODguMDA=)'>
+<rect x='0.00' y='0.00' width='720.00' height='288.00' style='stroke-width: 1.16; stroke: #FFFFFF; fill: #FFFFFF;' />
+</g>
+<defs>
+  <clipPath id='cpMTEzLjI3fDcxNC4wMnw1Ljk4fDIyOS42MQ=='>
+    <rect x='113.27' y='5.98' width='600.76' height='223.63' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMTEzLjI3fDcxNC4wMnw1Ljk4fDIyOS42MQ==)'>
+<rect x='113.27' y='5.98' width='600.76' height='223.63' style='stroke-width: 1.16; stroke: none; fill: #FFFFFF;' />
+<polyline points='140.57,219.45 147.49,216.05 154.40,207.54 161.31,196.43 168.23,185.22 175.14,176.42 182.05,172.55 188.97,172.52 195.88,172.52 202.79,172.52 209.71,172.52 216.62,172.52 223.53,172.52 230.45,172.52 237.36,172.52 244.27,172.52 251.18,172.52 258.10,172.52 265.01,172.52 271.92,170.92 278.84,165.05 285.75,156.70 292.66,147.82 299.58,140.37 306.49,136.30 313.40,136.03 320.32,136.03 327.23,136.03 334.14,136.03 341.06,136.03 347.97,136.03 354.88,134.53 361.80,126.94 368.71,115.37 375.62,102.63 382.54,91.49 389.45,84.75 396.36,83.90 403.27,83.90 410.19,83.90 417.10,83.90 424.01,83.90 430.93,83.90 437.84,83.55 444.75,80.86 451.67,76.40 458.58,71.30 465.49,66.68 472.41,63.64 479.32,63.04 486.23,63.04 493.15,63.04 500.06,63.04 506.97,63.04 513.89,63.04 520.80,63.04 527.71,63.04 534.63,63.04 541.54,63.04 548.45,63.04 555.36,63.04 562.28,63.13 569.19,65.26 576.10,69.41 583.02,74.46 589.93,79.29 596.84,82.80 603.76,83.77 610.67,77.49 617.58,64.39 624.50,48.08 631.41,32.19 638.32,20.34 645.24,16.14 652.15,20.02 659.06,28.82 665.98,40.03 672.89,51.14 679.80,59.65 686.72,63.04 ' style='stroke-width: 9.60; stroke-linecap: butt;' />
+<circle cx='686.72' cy='63.04' r='13.16' style='stroke-width: 0.71; fill: #000000;' />
+</g>
+<g clip-path='url(#cpMC4wMHw3MjAuMDB8MC4wMHwyODguMDA=)'>
+<polyline points='113.27,229.61 113.27,5.98 ' style='stroke-width: 4.27; stroke-linecap: butt;' />
+<text x='107.89' y='234.75' text-anchor='end' style='font-size: 42.00px; font-weight: bold; font-family: DejaVu Sans;' textLength='58.45px' lengthAdjust='spacingAndGlyphs'>65</text>
+<text x='107.89' y='135.70' text-anchor='end' style='font-size: 42.00px; font-weight: bold; font-family: DejaVu Sans;' textLength='58.45px' lengthAdjust='spacingAndGlyphs'>84</text>
+<text x='107.89' y='31.43' text-anchor='end' style='font-size: 42.00px; font-weight: bold; font-family: DejaVu Sans;' textLength='87.67px' lengthAdjust='spacingAndGlyphs'>104</text>
+<polyline points='110.28,219.45 113.27,219.45 ' style='stroke-width: 4.27; stroke-linecap: butt;' />
+<polyline points='110.28,120.39 113.27,120.39 ' style='stroke-width: 4.27; stroke-linecap: butt;' />
+<polyline points='110.28,16.12 113.27,16.12 ' style='stroke-width: 4.27; stroke-linecap: butt;' />
+<polyline points='113.27,229.61 714.02,229.61 ' style='stroke-width: 4.27; stroke-linecap: butt;' />
+<polyline points='224.60,232.60 224.60,229.61 ' style='stroke-width: 4.27; stroke-linecap: butt;' />
+<polyline points='560.68,232.60 560.68,229.61 ' style='stroke-width: 4.27; stroke-linecap: butt;' />
+<text x='224.60' y='260.51' text-anchor='middle' style='font-size: 35.00px; font-weight: bold; font-family: DejaVu Sans;' textLength='128.11px' lengthAdjust='spacingAndGlyphs'>09 Oct</text>
+<text x='560.68' y='260.51' text-anchor='middle' style='font-size: 35.00px; font-weight: bold; font-family: DejaVu Sans;' textLength='128.11px' lengthAdjust='spacingAndGlyphs'>17 Oct</text>
+</g>
+</svg>
